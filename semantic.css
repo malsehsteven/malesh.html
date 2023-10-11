@@ -1,0 +1,44 @@
+.header{
+    background-color: blueviolet;
+    
+}
+nav{
+    background-color: brown;
+}
+main{
+    background-color: aqua;
+    width: 70%;
+    height: 300px;
+    float: left;
+}
+aside{
+    background-color: rgb(255, 220, 246);
+    width: 25%;
+    height: 300px;
+    float: right;
+}
+footer{
+    background-color: deeppink;
+    clear: both;
+}
+
+nav ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+nav ul li a{
+    text-decoration: none;
+    padding: 10px;
+    background-color: darkblue;
+    color: darkgreen;
+}
+nav ul li a:hover{
+    color: blue;
+}
+.h1sytles{
+    font-family: Arial;
+}
+h1.some{
+    background-color: red;
+}
